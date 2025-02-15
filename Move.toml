@@ -1,0 +1,12 @@
+[package]
+name = "EventTicketingSystem"
+version = "0.1.0"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev="main" }
+
+[move-compiler]
+target = "aptos"
+
+[addresses]
+EventTicketingSystem = "0x4cc7a831a4c11c1a95ac28cb1d8b90b5377a6eae5092b56a388f5e2140f77be6"
