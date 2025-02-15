@@ -22,7 +22,7 @@ This project implements a basic event ticketing system that allows event organiz
 
 **Getting Started**
 
-1. Clone the repository: `git clone https://github.com/your-username/event-ticketing-system.git`
+1. Clone the repository: `git clone https://github.com/san0393/Event-Ticketing-System.git`
 2. Install the required dependencies: `aptos init` and `aptos build`
 3. Deploy the contract to the Aptos testnet: `aptos deploy`
 4. Interact with the contract using the Aptos CLI or a web3 interface
